@@ -1,6 +1,6 @@
 const { assign } = Object
 
-const getNewRandomRedditURL = () => location.origin + '/r/random'
+const getNewRandomRedditURL = () => location.origin + '/r/random/top/?sort=top&t=all'
 
 const h = (tagName = 'div', properties = {}, children = []) => {
 	const el = assign(document.createElement(tagName), properties)
