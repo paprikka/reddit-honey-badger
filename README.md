@@ -11,7 +11,7 @@
 ![Trololo](./foo.gif)
 ![Trololo](./foo.gif)
 
-![Honey Badger](./Honey_badger.jpg)
+![Honey Badger](./honey-badger.jpg)
 
 ![Trololo](./foo.gif)
 ![Trololo](./foo.gif)
