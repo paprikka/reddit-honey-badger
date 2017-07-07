@@ -1,4 +1,5 @@
-# The official Honey Badger extension for Reddit - browse top posts from random subreddit 
+# Badger Badger, Honey Badger!
+## The official Honey Badger extension for Reddit - browse top posts from random subreddit 
 
 
 1. Install the extension from Chrome Web Store
